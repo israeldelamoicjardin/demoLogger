@@ -1,0 +1,31 @@
+2025-01-23 19:45:49,058 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:45:49,058 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:46:17,510 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:46:17,510 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:48:34,701 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:48:34,701 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:48:34,702 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:48:34,702 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:48:34,703 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:48:34,703 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:10,548 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:10,548 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:10,549 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:10,549 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:10,549 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:10,549 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:10,551 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:10,551 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:45,798 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:45,798 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:49:45,798 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:49:45,798 [main] ERROR es.israeldelamo.Main - For input string: ""
+2025-01-23 19:50:39,542 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:50:39,543 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:50:39,543 [main] ERROR es.israeldelamo.Main - Mensaje de error For input string: ""
+2025-01-23 19:50:39,543 [main] ERROR es.israeldelamo.Main - Mensaje Localized For input string: ""
+2025-01-23 19:50:39,543 [main] INFO  es.israeldelamo.Main - No debería haber llegado hasta aquí
+2025-01-23 19:51:02,508 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:51:02,509 [main] INFO  es.israeldelamo.Main - Lanzando la aplicación
+2025-01-23 19:51:02,509 [main] ERROR es.israeldelamo.Main - Mensaje de error For input string: ""
+2025-01-23 19:51:02,510 [main] ERROR es.israeldelamo.Main - Mensaje Localized For input string: ""
