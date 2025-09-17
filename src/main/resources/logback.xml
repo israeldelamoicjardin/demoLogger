@@ -30,10 +30,10 @@
         <appender-ref ref="FILE_GIGANTE"/>
         <appender-ref ref="FILE_ROLLER"/>
     </logger>
-    <!-- Configuración del root logger
+    <!-- Configuración del root logger-->
     <root level="DEBUG">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILE_GIGANTE"/>
         <appender-ref ref="FILE_ROLLER"/>
-    </root>-->
+    </root>
 </configuration>
